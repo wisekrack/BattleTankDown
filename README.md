@@ -1,5 +1,5 @@
 # BattleTankDown
-Now detect your enemy from drone and hunt them down, this is a repository for the special forces. 
+Now detect your enemy Tank from drone, chase them and stop not until you  neutralise them, this is a repository for the special forces. 
 
 Look at the video for a demo.
 
