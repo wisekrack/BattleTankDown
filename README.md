@@ -14,3 +14,7 @@ The requirements (including tensorflow) can be installed using:
 ```
 pip install -r requirements.txt
 ```
+## Demo
+To detect any video set path  in the file python file or execute 
+```
+python tankLocFromSurveillanceVideo.py
