@@ -1,0 +1,6 @@
+classes= 1
+train  = cfg/yoloData/train.txt
+valid  = cfg/yoloData/test.txt
+names = tank.names
+backup = backup/
+
