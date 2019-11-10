@@ -3,4 +3,4 @@ Now detect your enemy Tank from drone, chase them and stop not until you  neutra
 
 Look at the video for a demo.
 
-[![BattleTankDetection](https://img.youtube.com/vi/XquOIBpA6gM/0.jpg)](https://youtu.be/XquOIBpA6gM)
+[![BattleTankDetection](https://img.youtube.com/vi/bfKgzpGsI8Y/0.jpg)](https://youtu.be/bfKgzpGsI8Y)
