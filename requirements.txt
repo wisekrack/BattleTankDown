@@ -1,2 +1,2 @@
-yolo34py
+yolo34py-gpu
 opencv-python
