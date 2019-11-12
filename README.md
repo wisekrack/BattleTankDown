@@ -7,7 +7,7 @@ Look at the video for a demo.
 # Installation 
 Clone the git project:
 ```
-$ git clone https://github.com/perceptiveAITech/visualBot.git
+$ git clone https://github.com/axonml/BattleTankDown
 ```
 
 The requirements (including tensorflow) can be installed using:
